@@ -19,6 +19,10 @@ Frontend developer Student, living in Gdańsk, Poland.
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="50" src="https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png"></code>
 
+## Cloud Provider Experience:
+<code><img height="60" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4"></code>
+<code><img height="60" src="https://avatars1.githubusercontent.com/u/1698434?s=200&v=4"></code>
+
 ## Projects
 I’m currently working on new website for private Nostale servers. Also I offer help with setup and maintence websites.
 more info in future
