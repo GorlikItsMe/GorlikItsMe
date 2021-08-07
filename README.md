@@ -32,4 +32,4 @@ Not all becouse I work lots of in company git systems.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorlikitsme&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorlikitsme&count_private=true&langs_count=7&hide=html&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gorlik" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GorlikItsMe" />
