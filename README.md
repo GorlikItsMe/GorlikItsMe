@@ -28,7 +28,7 @@ I’m currently working on new website for private Nostale servers. Also I offer
 more info in future
 
 ## Stats 
-Not all becouse I work lots of in company git systems.
+Not all because I work lots of in company git systems.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorlikitsme&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorlikitsme&count_private=true&langs_count=7&hide=html&layout=compact" />
