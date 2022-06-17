@@ -1,4 +1,5 @@
 # Hi I'm <b>Gorlik</b>
+![](https://komarev.com/ghpvc/?username=gorlikitsme)
 
 * A Self-Taught Software Developer
 * Frontend developer Student, living in Gdańsk, Poland.
