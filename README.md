@@ -11,13 +11,14 @@
 
 
 ## Languages:
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"></code>
+<code><img height="60" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
+<code><img height="60" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true"></code>
 
 ## Frameworks/Tools:
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true"></code>
+<code><img height="60" src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/django/django.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true"></code>
@@ -32,9 +33,11 @@
 
 ## Projects
 I’m currently working on new website for private Nostale servers. Also I offer help with setup and maintence websites.  
+* <a href="https://5miasto.pl/">https://5miasto.pl/</a> Live list of twitch.tv streamers who play on the Polish FiveM GTA RP (Fivecity) server
 * <a href="https://atlagaming.eu/">https://atlagaming.eu/</a> Nostale private server (now is offline)
 * <a href="https://ts.atlagaming.eu/">https://ts.atlagaming.eu/</a> Tool for Opennos (Nostale priv servers) to creating timespaces easier
 * <a href="https://itempicker.atlagaming.eu/">https://itempicker.atlagaming.eu/</a> Itempicker with all Nostale Items (also with API for devs to use this icons easier)
+
 
 and more ;-)
 
