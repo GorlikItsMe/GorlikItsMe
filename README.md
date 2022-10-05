@@ -48,6 +48,6 @@ Not all because I work lots of in company git systems.
 
 Top Languages       |  Wakatime
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorlikitsme&count_private=true&langs_count=7&hide=html&layout=compact)  |  [![](https://github-readme-stats.vercel.app/api/wakatime?username=gorlikitsme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats-gorlikitsme.vercel.app/api/top-langs/?username=gorlikitsme&count_private=true&langs_count=7&hide=html&layout=compact)  |  [![](https://github-readme-stats-gorlikitsme.vercel.app/api/wakatime?username=gorlikitsme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 **GitHub Stats** |
-![](https://github-readme-stats.vercel.app/api?username=gorlikitsme&count_private=true) | 
+![](https://github-readme-stats-gorlikitsme.vercel.app/api?username=gorlikitsme&count_private=true) | 
