@@ -81,7 +81,7 @@ Not all because I work lots of in company git systems.
 
 Top Languages       |  Github Stats
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats-gorlikitsme.vercel.app/api/top-langs/?username=gorlikitsme&count_private=true&langs_count=7&hide=html&layout=compact)  | ![](https://github-readme-stats-gorlikitsme.vercel.app/api?username=gorlikitsme&count_private=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GorlikItsMe&langs_count=10&layout=compact&exclude_repo=Nostale-Generator-ItemIconId,Nostale2)  | ![](https://github-readme-stats-gorlikitsme.vercel.app/api?username=gorlikitsme&count_private=true) 
 **Wakatime** | 
 [![](https://github-readme-stats-gorlikitsme.vercel.app/api/wakatime?username=gorlikitsme&layout=compact&_rand=1)](https://github.com/anuraghazra/github-readme-stats) | [![wakatime](https://wakatime.com/badge/user/8a7cbd5f-e903-4704-b395-aac97f235c53.svg)](https://wakatime.com/@8a7cbd5f-e903-4704-b395-aac97f235c53) | 
 
