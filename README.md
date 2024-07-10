@@ -2,10 +2,10 @@
 
 * I'm self-taught software developer. 
 * I like building things that are used by many people every day.
-* Currently I work for the company as a python backend developer (Django).
-* My favourite frameworks is Django and Next.js
-* In the free time I'm building Nostale Server [Void](https://voidgamingnetwork.com/)
-* What I do? Backend, frontend, devops, sql and propably more!
+* Currently, I work as a Python backend developer (Django) for a company.
+* My favourite frameworks are Django and Next.js
+* In the free time, I'm building a Nostale Server [Void](https://voidgamingnetwork.com/)
+* What I do: Backend, frontend, devops, sql and more!
 
 ## Social:
 <a href="https://github.com/GorlikItsMe"><img src="https://img.shields.io/badge/-@GorlikItsMe-%23181717?style=flat-square&logo=github" height="25"></a>
@@ -56,18 +56,18 @@
 <code><img width="60" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4"></code>
 
 ## Projects
-I’m currently working on new website for private Nostale servers. Also I offer help with setup and maintence websites.  
-* <a href="https://voidgamingnetwork.com/">https://voidgamingnetwork.com/</a> Nostale private server
-* <ins><company_name></ins> - Mobile store fleet management application for a Polish chain of stores enabling data collection, management and reporting
-* <a href="https://itempicker.atlagaming.eu/">https://itempicker.atlagaming.eu/</a> Itempicker with all Nostale Items (also with API for devs to use this icons easier)
-* <a href="https://ts.atlagaming.eu/">https://ts.atlagaming.eu/</a> Tool for Opennos (Nostale priv servers) to creating timespaces easier
-* <a href="https://github.com/GorlikItsMe/nosbot.js">nosbot.js</a> Library that makes it easy to build clientless bots for Nostale
-* <ins>Nosbazar-project</ins> - app to scrap in game (Nostale) bazar, track prices, auctions and automate buying items using bunch of bots
-* <ins>Gameforge-Client-Automation</ins> - Scripts used to automate gameforge client to automaticly get tokens used during auth process (used by my clientless bots)
-* <ins>Nos.Tool</ins> - terminal app written in c# used to unpack Nostale game files (like Onexplorer but i can use it as CLI). Its essential part of my itempicker
-* <a href="https://5miasto.pl/">https://5miasto.pl/</a> Live list of twitch.tv streamers who play on the Polish FiveM GTA RP (Fivecity) server
-* <a href="https://atlagaming.eu/">https://atlagaming.eu/</a> Nostale private server (old project)
-* Private hosting with my websites, mail, vpn, apps, tools, bots etc on my Ubuntu VPS
+I’m currently working on a new website for private Nostale servers. I also offer help with setup and maintenance of websites.
+* <a href="https://voidgamingnetwork.com/">https://voidgamingnetwork.com/</a> - Nostale private server
+* <ins><hidden></ins> - Mobile store fleet management application for a Polish chain of stores allowing data collection, management and reporting
+* <a href="https://itempicker.atlagaming.eu/">https://itempicker.atlagaming.eu/</a> - Itempicker with all Nostale Items (also with an API for devs to use these icons more easily)
+* <a href="https://ts.atlagaming.eu/">https://ts.atlagaming.eu/</a> - Tool for Opennos (Nostale priv servers) to creating timespaces more easily
+* <a href="https://github.com/GorlikItsMe/nosbot.js">nosbot.js</a> - Library that makes it easy to build clientless bots for Nostale
+* <ins>Nosbazar-project</ins> - App to scrape in-game (Nostale) bazar, track prices, auctions, and automate buying items using a bunch of bots
+* <ins>Gameforge-Client-Automation</ins> - Scripts used to automate the Gameforge client to automatically get tokens used during the auth process (used by my clientless bots)
+* <ins>Nos.Tool</ins> - Terminal app written in C# used to unpack Nostale game files (like Onexplorer but I can use it as CLI). It is an essential part of my itempicker.
+* <a href="https://5miasto.pl/">https://5miasto.pl/</a> - Live list of twitch.tv streamers who play on the Polish FiveM GTA RP (Fivecity) server
+* <a href="https://atlagaming.eu/">https://atlagaming.eu/</a> - Nostale private server (old project)
+* Private hosting with my websites, mail, VPN, apps, tools, bots etc. on my Ubuntu VPS
 * I also made games with my friends during game jams or some tournaments. Games I worked on are:
   * [Foreign Lives](https://foreignlives.itch.io/game)
   * [Drakshoot](https://foreignlives.itch.io/drakshoot)
@@ -77,7 +77,7 @@ and more ;-)
 
 
 ## Stats 
-Not all because I work lots of in company git systems.
+Not all because I work a lot in company git systems.
 
 Top Languages       |  Github Stats
 :-------------------------:|:-------------------------:
