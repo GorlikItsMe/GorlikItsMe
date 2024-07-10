@@ -69,6 +69,11 @@ I’m currently working on new website for private Nostale servers. Also I offer
 * <a href="https://atlagaming.eu/">https://atlagaming.eu/</a> Nostale private server (old project)
 * Private hosting with my websites, apps, tools, bots etc on my Ubuntu VPS
 
+I also made games with my friends during game jams or some tournaments. Games I worked on are:
+* [Foreign Lives](https://foreignlives.itch.io/game)
+* [Drakshoot](https://foreignlives.itch.io/drakshoot)
+* [LumenSoul](https://foreignlives.itch.io/lumensoul)
+
 and more ;-)
 
 
