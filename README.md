@@ -3,7 +3,7 @@
 * I'm self-taught software developer. 
 * I like building things that are used by many people every day.
 * Currently, I work as a Python backend developer (Django) for a company.
-* My favourite frameworks are Django and Next.js
+* My favorite frameworks are Django and Next.js
 * In the free time, I'm building a Nostale Server [Void](https://voidgamingnetwork.com/)
 * What I do: Backend, frontend, devops, sql and more!
 
